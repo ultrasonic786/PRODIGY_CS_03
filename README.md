@@ -42,5 +42,4 @@ Based on the score, it determines password strength and provides feedback for im
 
 ---
 
-## 💡 Example Output
 
